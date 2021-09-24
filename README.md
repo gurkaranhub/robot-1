@@ -27,7 +27,7 @@ mode 指生成的项目类型，选值 common、vue、react
 
 path 指项目生成到的目录
 
-[robot-cli 详细说明](https://github.com/ygm125/robot-cli)
+[robot-cli 详细说明](https://github.com/ygm125/robot-cli) helllllloooooooo
 
 ## More
 
